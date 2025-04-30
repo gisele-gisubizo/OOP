@@ -32,8 +32,6 @@ Setup Instructions
 Clone the repository:git clone https://github.com/gisele-gisubizo/OOP.git
 
 
-Rename the cloned directory to gisele (if not already):mv OOP gisele
-
 
 Open the gisele directory in IntelliJ IDEA with JDK 21 configured.
 Build each project to generate out/production directories:
@@ -53,7 +51,7 @@ Run Docker images as shown above.
 Submission Details
 
 GitHub Repository: https://github.com/gisele-gisubizo/OOP
-Docker Hub: https://hub.docker.com/u/gisele-gisubizo (if images are pushed)
+
 Docker Images:
 gisele-gisubizo/mission-management:26188
 gisele-gisubizo/land-management:26188
